@@ -2,11 +2,15 @@
 
 cs student | i break things and then fix them | IN
 
- 🧬 working on trying to learn everything
- 📚 tech stACK { Python, Javascript, SQL, Firebase }
- 🛠️ doing frontend and databases 
- 🧠 lemme know what should i learn codebyvansh@gmail.com
- ⚡ fun fact : im a video editor and sometimes i touch grass too!
+🧬 working on trying to learn everything
+
+📚 tech stACK { Python, Javascript, SQL, Firebase }
+
+🛠️ doing frontend and databases 
+
+🧠 lemme know what should i learn codebyvansh@gmail.com
+
+⚡ fun fact : im a video editor and sometimes i touch grass too!
 <!--
 **VanshhShah/VanshhShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
